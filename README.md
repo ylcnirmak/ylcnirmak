@@ -132,7 +132,7 @@ const ylcnirmak = {
 
 [![CodePen](https://img.shields.io/badge/CodePen-ylcnirmak-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ylcnirmak)
 [![Dev.to](https://img.shields.io/badge/Dev.to-ylcnirmak-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ylcnirmak)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-ylcnirmak-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ylcnirmak)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-ylcnirmak-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/ylcnirmak](https://stackoverflow.com/users/14524136/ylcnirmak))
 [![LeetCode](https://img.shields.io/badge/LeetCode-ylcnirmak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ylcnirmak)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ylcnirmak-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ylcnirmak)
 
