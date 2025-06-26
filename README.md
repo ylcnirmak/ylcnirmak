@@ -113,16 +113,7 @@ const ylcnirmak = {
 
 ---
 
-## 🎯 2025 Hedeflerim
 
-- [ ] **Hermes Projesi'ni** tamamlamak ve open source yapmak
-- [ ] **10+ açık kaynak projeye** katkıda bulunmak  
-- [ ] **Flutter ile mobil uygulama** geliştirmek
-- [ ] **AWS sertifikası** almak
-- [ ] **Teknik blog** yazmaya başlamak
-- [ ] **Yeni teknolojiler** öğrenmek (AI/ML, Blockchain)
-
----
 
 ## 🌐 Bana Ulaşın
 
@@ -149,25 +140,18 @@ const ylcnirmak = {
 
 ---
 
-## ☕ Destek Ol
 
-Projelerimi beğendiyseniz bir kahve ısmarlayabilirsiniz! 😊
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ylcnirmak">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/ylcnirmak">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-  </a>
-</div>
-
----
-
-## 💭 İlham Verici Söz
+## ⚡ Nikola Tesla'dan İlham
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+*"The present is theirs; the future, for which I really worked, is mine."*
+
+**"Şimdi onların; benim gerçekten çalıştığım gelecek ise benim."**
+
+~ Nikola Tesla ⚡
+
 </div>
 
 ---
