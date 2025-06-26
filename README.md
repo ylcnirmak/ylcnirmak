@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Yalçın İrmak!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+React+Expert;Open+Source+Contributor;Problem+Solver+%26+Code+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Laravel+%7C+Electron.js+%7C+Node.js;Open+Source+Contributor;Problem+Solver+%26+Code+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -148,7 +148,7 @@ const ylcnirmak = {
   
 *"The present is theirs; the future, for which I really worked, is mine."*
 
-**"Şimdi onların; benim gerçekten çalıştığım gelecek ise benim."**
+**"Şimdi onların; gerçekten çalıştığım gelecek ise benim."**
 
 ~ Nikola Tesla ⚡
 
@@ -163,7 +163,4 @@ const ylcnirmak = {
 <div align="center">
   
   **⭐ Eğer projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
-  
-  ![Snake animation](https://github.com/ylcnirmak/ylcnirmak/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
