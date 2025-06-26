@@ -1,52 +1,185 @@
-<h1 align="center">Hi 👋, I'm ylcnirmak</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ylcnirmak&label=Profile%20views&color=0e75b6&style=flat" alt="ylcnirmak" /> </p>
+# 👋 Merhaba, Ben Yalçın İrmak!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ylcnirmak" alt="ylcnirmak" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+React+Expert;Open+Source+Contributor;Problem+Solver+%26+Code+Architect" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/ylcnirmak" target="blank"><img src="https://img.shields.io/twitter/follow/ylcnirmak?logo=twitter&style=for-the-badge" alt="ylcnirmak" /></a> </p>
-
-- 🔭 I’m currently working on **Hermes**
-
-- 👯 I’m looking to collaborate on **Hermes**
-
-- 👨‍💻 All of my projects are available at [ytd.com.tr](ytd.com.tr)
-
-- 📫 How to reach me **ylcnirmak@gmail**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://dev.to/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://twitter.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://kaggle.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://fb.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://instagram.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://dribbble.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.behance.net/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://hashnode.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://medium.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ylcnirmak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="https://discord.gg/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ylcnirmak" height="30" width="40" /></a>
-<a href="/ylcnirmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ylcnirmak" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ylcnirmak&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ylcnirmak" />
+  <img src="https://img.shields.io/github/followers/ylcnirmak?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ylcnirmak?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ylcnirmak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ylcnirmak" /></a><a href="https://ko-fi.com/ylcnirmak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ylcnirmak" /></a></p><br><br>
+## 🚀 Hakkımda
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylcnirmak&show_icons=true&locale=en&layout=compact" alt="ylcnirmak" /></p>
+```javascript
+const ylcnirmak = {
+    name: "Yalçın İrmak",
+    location: "Türkiye 🇹🇷",
+    currentProject: "Hermes - Advanced Payment System",
+    languages: ["PHP", "JavaScript", "Python", "TypeScript", "Dart"],
+    frameworks: ["Laravel", "Vue.js", "React", "Flutter", "Django"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "MariaDB"],
+    tools: ["Docker", "AWS", "Git", "Postman", "Figma"],
+    interests: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
+    funFact: "Kod yazarken kahve içmeyi seviyorum ☕",
+    motto: "Clean Code is not written by following a set of rules. Clean code is written by programmers who care."
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ylcnirmak&show_icons=true&locale=en" alt="ylcnirmak" /></p>
+## 🔥 Şu Anda Üzerinde Çalıştığım Projeler
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ylcnirmak&" alt="ylcnirmak" /></p>
+### 💳 Hermes - Gelişmiş Ödeme Sistemi
+> Modern e-ticaret çözümleri için Laravel tabanlı kapsamlı ödeme sistemi
+- **Link Ödeme** - Hızlı ve güvenli link oluşturma
+- **Sanal POS** - Çoklu banka desteği
+- **Ürün Ödeme** - Dinamik fiyatlandırma ve stok yönetimi
+- **3D Secure** - Maksimum güvenlik
+
+### 🌐 Diğer Projeler
+- **E-ticaret Platformu** - Vue.js & Laravel
+- **Mobil Uygulama** - Flutter ile cross-platform
+- **API Geliştirme** - RESTful ve GraphQL
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Veritabanları
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### DevOps & Araçlar
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Mobil & Diğer
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ylcnirmak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ylcnirmak&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylcnirmak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ylcnirmak&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trofyler
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ylcnirmak&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🎯 2025 Hedeflerim
+
+- [ ] **Hermes Projesi'ni** tamamlamak ve open source yapmak
+- [ ] **10+ açık kaynak projeye** katkıda bulunmak  
+- [ ] **Flutter ile mobil uygulama** geliştirmek
+- [ ] **AWS sertifikası** almak
+- [ ] **Teknik blog** yazmaya başlamak
+- [ ] **Yeni teknolojiler** öğrenmek (AI/ML, Blockchain)
+
+---
+
+## 🌐 Bana Ulaşın
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-ytd.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ytd.com.tr)
+[![Email](https://img.shields.io/badge/Email-ylcnirmak@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ylcnirmak@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@ylcnirmak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ylcnirmak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ylcnirmak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ylcnirmak)
+
+</div>
+
+### 🎮 Diğer Platformlar
+
+<div align="center">
+
+[![CodePen](https://img.shields.io/badge/CodePen-ylcnirmak-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ylcnirmak)
+[![Dev.to](https://img.shields.io/badge/Dev.to-ylcnirmak-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ylcnirmak)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-ylcnirmak-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ylcnirmak)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ylcnirmak-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ylcnirmak)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ylcnirmak-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ylcnirmak)
+
+</div>
+
+---
+
+## ☕ Destek Ol
+
+Projelerimi beğendiyseniz bir kahve ısmarlayabilirsiniz! 😊
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ylcnirmak">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/ylcnirmak">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</div>
+
+---
+
+## 💭 İlham Verici Söz
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  
+  **⭐ Eğer projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
+  
+  ![Snake animation](https://github.com/ylcnirmak/ylcnirmak/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
